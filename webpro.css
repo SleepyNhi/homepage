@@ -121,7 +121,7 @@ tr {
     margin-top: 150px;
     background-color: #A8C6F2;
     position: center;
-    background-image:url("background.JPG");
+    background-image:url("background.jpg");
 }
 
 #body2 {
@@ -159,7 +159,7 @@ tr {
 
 
 .bodyBack {
-	background-image: url("background.JPG");
+	background-image: url("background.jpg");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: center;
